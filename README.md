@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on opensource DL/ML projects
 - 📫 How to reach me: via Linked-In, @Abhinandan Rathi
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm 20=P
 
 <!---
 Abhir12345/Abhir12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
