@@ -1,11 +1,39 @@
-- 👋 Hi, I’m Abhinandan Rathi
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, programming...
-- 🌱 I’m currently learning about ML, DL
-- 💞️ I’m looking to collaborate on opensource DL/ML projects
-- 📫 How to reach me: via Linked-In, @Abhinandan Rathi
-- 😄 Pronouns: He/Him
+# Hi there, I'm Abhinandan Rathi (Abhir12345) 👋
 
-<!---
-Abhir12345/Abhir12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Final Year Undergrad** | 🤖 **AI & ML Enthusiast** | 🌐 **Web Developer**
+
+---
+
+## 🚀 About Me
+
+- Aspiring AI, Deep Learning, and Machine Learning enthusiast
+- Passionate about building and learning in the fields of Artificial Intelligence and Data Science
+- Some experience in Web Development
+- Always eager to collaborate on innovative projects and explore new technologies
+
+## 🛠️ Tech Stack
+
+- **Languages:** C++, Python
+- **Libraries & Tools:** Scikit-learn, NumPy, Pandas, (and more ML/DL libraries)
+- **Other Interests:** Web Development
+
+## 💡 Motto
+
+> **Work hard!**
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Abhinandan%20Rathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinandan-rathi-87197a249/)](https://www.linkedin.com/in/abhinandan-rathi-87197a249/)
+
+---
+
+<!--
+**Fun fact:** Not exactly many hobbies! 😄
+-->
+
+<!--
+**Pinned Projects:**  
+If you'd like to highlight any favorite repositories, let me know!
+-->
+
+Thanks for visiting! ⭐️
