@@ -15,7 +15,7 @@
 
 - **Languages:** C++, Python
 - **Libraries & Tools:** Scikit-learn, NumPy, Pandas, (and more ML/DL libraries)
-- **Other Interests:** Web Development
+- **Other Interests:** Natural Language Processing
 
 ## 💡 Motto
 
