@@ -1,6 +1,6 @@
 # Hi there, I'm Abhinandan Rathi (Abhir12345) 👋
 
-🎓 **Final Year Undergrad** | 🤖 **AI & ML Enthusiast** | 🌐 **Web Developer**
+🎓 **Final Year Undergrad** | 🤖 **AI & ML Enthusiast** 
 
 ---
 
