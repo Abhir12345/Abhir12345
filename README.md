@@ -8,7 +8,7 @@
 
 - Aspiring AI, Deep Learning, and Machine Learning enthusiast
 - Passionate about building and learning in the fields of Artificial Intelligence and Data Science
-- Some experience in Web Development
+- Some experience, (learning) about NLP. 
 - Always eager to collaborate on innovative projects and explore new technologies
 
 ## 🛠️ Tech Stack
